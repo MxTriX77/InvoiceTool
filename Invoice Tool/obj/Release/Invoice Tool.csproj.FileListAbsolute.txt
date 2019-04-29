@@ -1,0 +1,7 @@
+C:\Users\MxTriX_\source\repos\Invoice Tool\Invoice Tool\bin\Release\Invoice Tool.exe.config
+C:\Users\MxTriX_\source\repos\Invoice Tool\Invoice Tool\bin\Release\Invoice Tool.exe
+C:\Users\MxTriX_\source\repos\Invoice Tool\Invoice Tool\bin\Release\Invoice Tool.pdb
+C:\Users\MxTriX_\source\repos\Invoice Tool\Invoice Tool\obj\Release\Invoice Tool.csprojAssemblyReference.cache
+C:\Users\MxTriX_\source\repos\Invoice Tool\Invoice Tool\obj\Release\Invoice Tool.csproj.CoreCompileInputs.cache
+C:\Users\MxTriX_\source\repos\Invoice Tool\Invoice Tool\obj\Release\Invoice Tool.exe
+C:\Users\MxTriX_\source\repos\Invoice Tool\Invoice Tool\obj\Release\Invoice Tool.pdb

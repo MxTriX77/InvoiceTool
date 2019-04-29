@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice Tool", "Invoice Tool\Invoice Tool.csproj", "{4DDCC8B7-691F-4812-B0DB-924EF45A0A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DDCC8B7-691F-4812-B0DB-924EF45A0A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDCC8B7-691F-4812-B0DB-924EF45A0A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDCC8B7-691F-4812-B0DB-924EF45A0A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDCC8B7-691F-4812-B0DB-924EF45A0A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF5C5726-F859-4A45-BA40-9CECFA6DB7F9}
+	EndGlobalSection
+EndGlobal
